@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+dist/
+.deploy
+
+npm-debug.log
+.idea/*
+.vscode/
+*.py
+debug.log
+config/index.js
