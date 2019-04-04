@@ -10,3 +10,4 @@ npm-debug.log
 debug.log
 config/index.js
 .git/*
+workspace.xml
